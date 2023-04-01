@@ -10,10 +10,11 @@ Descargar la imagen oficial de MySQL, ejecutar un contenedor, y probar los coman
 
 1. Accede a GitHub y asegúrate de haber iniciado sesión en tu cuenta. 
 2. Ve al repositorio [https://github.com/ucb-software/mcd-ejercicio-1](https://github.com/ucb-software/mcd-ejercicio-1) .
-3. Haz clic en el botón "Code" en la parte superior derecha del repositorio.
-4. Selecciona "Open with Codespaces" en el menú desplegable.
-5. En la siguiente página, haz clic en el botón "New codespace".
-6. Se abrirá una ventana de Visual Studio Code en tu navegador. Aquí puedes trabajar en el proyecto como lo harías en tu propio equipo.
+3. Haz clic en el botón "Fork" ubicado en la esquina superior derecha de la página. Esto creará una copia del repositorio en tu cuenta de GitHub.
+4. Una vez que el proceso de fork se haya completado, serás redirigido a la página de tu fork.
+5. Haz clic en el botón "Code" en la parte superior derecha del repositorio.
+6. Selecciona "Open with Codespaces" en el menú desplegable.
+7. Se abrirá una ventana de Visual Studio Code en tu navegador. Aquí puedes trabajar en el proyecto como lo harías en tu propio equipo.
 
 ¡Eso es todo! Ahora puedes comenzar a trabajar en el repositorio mcd-ejercicio-1 con tu entorno Codespace de GitHub.
 
